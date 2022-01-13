@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustavo Carneiro (@gustavocarneiroa), 24 yo, Brazilian, etc. etc.
+- 👋 Hi, I’m Gustavo Carneiro (@gustavocarneiroa), 25 yo, Brazilian, etc. etc.
 - 👀 I’m here interested in making some memes throught code.
 - 🌱 I’m currently learning some high level Javascript and Typescript stuff, back/front ends like Vue.js 3 and NestJS BUT that's not the kind of content you're getting here.
 - 💞️ I’m looking to collaborate on memes. Only memes.
